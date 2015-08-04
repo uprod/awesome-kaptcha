@@ -1,2 +1,2 @@
 # awesome-kaptcha
-new kaptcha
+new jquery kaptcha
